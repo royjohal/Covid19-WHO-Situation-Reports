@@ -1,0 +1,86 @@
+Province/ Region/ City	Population (10,000s)	Daily	Unnamed: 3	Unnamed: 4	Unnamed: 5	Cumulative	Unnamed: 7	Unnamed: 8	Unnamed: 9
+ 	 	cases Confirmed	cases Suspected	Deaths	Confirmed cases	Deaths	 	 	 
+Hubei	5917.0	401	311	52	65187	2615	 	 	 
+Guangdong	11346.0	0	0	0	1347	7	 	 	 
+Henan	9605.0	0	1	0	1271	19	 	 	 
+Zhejiang	5737.0	0	2	0	1205	1	 	 	 
+Hunan	6899.0	0	1	0	1016	4	 	 	 
+Anhui	6324.0	0	0	0	989	6	 	 	 
+Jiangxi	4648.0	0	0	0	934	1	 	 	 
+Shandong	10047.0	1	1	0	756	6	 	 	 
+Jiangsu	8051.0	0	0	0	631	0	 	 	 
+Chongqing	3102.0	0	9	0	576	6	 	 	 
+Sichuan	8341.0	2	7	0	531	3	 	 	 
+Heilongjiang	3773.0	0	0	0	480	12	 	 	 
+Beijing	2154.0	0	21	0	400	4	 	 	 
+Shanghai	2424.0	1	46	0	336	3	 	 	 
+Hebei	7556.0	1	0	0	312	6	 	 	 
+Fujian	3941.0	0	0	0	294	1	 	 	 
+Guangxi	4926.0	0	2	0	252	2	 	 	 
+Shaanxi	3864.0	0	0	0	245	1	 	 	 
+Yunnan	4830.0	0	7	0	174	2	 	 	 
+Hainan	934.0	0	6	0	168	5	 	 	 
+Guizhou	3600.0	0	0	0	146	2	 	 	 
+Tianjin	1560.0	0	14	0	135	3	 	 	 
+Shanxi	3718.0	0	1	0	133	0	 	 	 
+Liaoning	4359.0	0	6	0	121	1	 	 	 
+Jilin	2704.0	0	2	0	93	1	 	 	 
+Gansu	2637.0	0	0	0	91	2	 	 	 
+Hong Kong SAR	745.0	4	0	0	85	2	 	 	 
+Xinjiang	2487.0	0	0	0	76	2	 	 	 
+Inner Mongolia	2534.0	0	0	0	75	0	 	 	 
+Ningxia	688.0	0	2	0	71	0	 	 	 
+Taipei and environs	2359.0	2	0	0	32	1	 	 	 
+Qinghai	603.0	0	0	0	18	0	 	 	 
+Macao SAR	66.0	0	0	0	10	0	 	 	 
+Xizang	344.0	0	0	0	1	0	 	 	 
+Total	142823.0	412	439	52	78191	2718	 	 	 
+Country/Territory/Area	Confirmed* cases (new) 1261 (284) 164 (7) 91 (1) 23 (1) 22 (0)	Likely place of exposure†	 	 	Total cases with site of transmission under investigation (new) 639 (284) 12 (0) 0 (0) 0 (0) 0 (0)	Total deaths (new) 12 (2) 1 (0) 0 (0) 0 (0) 0 (0)	 	 	 
+ 	 	China (new)	Outside reporting country and outside China (new)	In reporting country (new)	 	 	 	 	 
+Western Pacific Region	 	 	 	 	 	 	 	 	 
+Republic of Korea	 	1261 (284)	13 (0)	4 (0)	 	 	 	 	 
+Japan	 	164 (7)	28 (0)	8 (1)	 	 	 	 	 
+Singapore	 	91 (1)	24 (0)	0 (0)	 	 	 	 	 
+Australia	 	23 (1)	12 (0)	8 (1)	 	 	 	 	 
+Malaysia	 	22 (0)	18 (0)	2 (0)	 	 	 	 	 
+Viet Nam	 	16 (0)	8 (0)	0 (0)	 	 	 	 	 
+Philippines	3 (0)	3 (0)	0 (0)	0 (0)	0 (0)	1 (0)	 	 	 
+Cambodia	1 (0)	1 (0)	0 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+South-East Asia Region	 	 	 	 	 	 	 	 	 
+Thailand	40 (3)	23 (0)	0 (0)	7 (0)	10 (3)	0 (0)	 	 	 
+India	3 (0)	3 (0)	0 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+Nepal	1 (0)	1 (0)	0 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+Sri Lanka	1 (0)	1 (0)	0 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+Region of the Americas	 	 	 	 	 	 	 	 	 
+United States of America	53 (0)	14 (0)	36 (0)	2 (0)	1 (0)	0 (0)	 	 	 
+Canada	10 (0)	7 (0)	1 (0)	1 (0)	1 (0)	0 (0)	 	 	 
+European Region	 	 	 	 	 	 	 	 	 
+Italy	322 (93)	3 (0)	0 (0)	121 (0)	198 (93)	11 (5)	 	 	 
+Germany	18 (2)	2 (0)	2 (2)	14 (0)	0 (0)	0 (0)	 	 	 
+The United Kingdom	13 (0)	2 (0)	10 (0)	1 (0)	0 (0)	0 (0)	 	 	 
+France	12 (0)	5 (0)	0 (0)	7 (0)	0 (0)	1 (0)	 	 	 
+Austria	2 (2)	0 (0)	2 (2)	0 (0)	0 (0)	0 (0)	 	 	 
+Croatia	2 (2)	0 (0)	1 (1)	0 (0)	1 (1)	0 (0)	 	 	 
+Israel	2 (0)	0 (0)	2 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+Russian Federation	2 (0)	2 (0)	0 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+Spain	2 (0)	0 (0)	2 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+Belgium	1 (0)	1 (0)	0 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+Finland	1 (0)	1 (0)	0 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+Sweden	1 (0)	1 (0)	0 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+Switzerland	1 (1)	0 (0)	1 (1)	0 (0)	0 (0)	0 (0)	 	 	 
+Eastern Mediterranean Region	 	 	 	 	 	 	 	 	 
+Iran (Islamic Republic of)	95 (34)	0 (0)	0 (0)	28 (0)	67 (34)	15 (3)	 	 	 
+Bahrain	26 (18)	0 (0)	26 (18)	0 (0)	0 (0)	0 (0)	 	 	 
+United Arab Emirates	13 (0)	6 (0)	2 (0)	5 (0)	0 (0)	0 (0)	 	 	 
+Kuwait	12 (4)	0 (0)	12 (4)	0 (0)	0 (0)	0 (0)	 	 	 
+Iraq	5 (4)	0 (0)	5 (4)	0 (0)	0 (0)	0 (0)	 	 	 
+Oman	4 (2)	0 (0)	4 (2)	0 (0)	0 (0)	0 (0)	 	 	 
+Afghanistan	1 (0)	0 (0)	1 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+Egypt	1 (0)	0 (0)	0 (0)	1 (0)	0 (0)	0 (0)	 	 	 
+Lebanon	1 (0)	0 (0)	1 (0)	0 (0)	0 (0)	0 (0)	 	 	 
+African Region	 	 	 	 	 	 	 	 	 
+Algeria	1 (1)	0 (0)	1 (1)	0 (0)	0 (0)	0 (0)	 	 	 
+ 	 	 	 	 	 	 	 	 	 
+Subtotal for all regions	2227 (459)	179 (0)	131 (37)	988 (7)	929 (415)	41 (10)	 	 	 
+International conveyance‡ (Diamond Princess)	691 (0)	0 (0)	0 (0)	0 (0)	691 (0)	3 (0)	 	 	 
+Grand total§	2918 (459)	179 (0)	131 (37)	988 (7)	929 (415)	44 (10)	 	 	 
